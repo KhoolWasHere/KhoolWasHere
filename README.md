@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @KhoolWasHere
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning web development and Unity game development
-- 💞️ I’m not looking to collaborate.
-- 📫 How to reach me 150051784+KhoolWasHere@users.noreply.github.com
+I am a 14-year-old full-stack web and game developer with a deep technical toolkit, including C, C#, Javascript (including many major frameworks), as well as moden web design with CSS, Tailwind, and Bootstrap. I enjoy building games with Unity and as well as dabbling in Unreal Engine and .NET solutions.
